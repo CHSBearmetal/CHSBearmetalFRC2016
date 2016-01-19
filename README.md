@@ -4,7 +4,7 @@ CHS Bearmetal Programmer's hub
 
 Here is all the code for all Programmers in the CHS Robotics team
 
-| ------------------------------------------ |
+| -------------------------------------------------------------- |
 
 For new Programmers:
 
@@ -15,7 +15,7 @@ Download the GitHub Desktop application
 Click to add this Git to yer Hub 
 ^ Button Next to download as zip^
 
-| ------------------------------------------ |
+| -------------------------------------------------------------- |
 
 To properly add to this project, and not get killed follow these steps:
 
