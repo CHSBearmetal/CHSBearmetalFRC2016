@@ -4,12 +4,13 @@ CHS Bearmetal Programmer's hub
 
 Here is all the code for all Programmers in the CHS Robotics team
 
-*/ ----------------------------------------------------------------------------------- \*
+/ ----------------------------------------------------------------------------------- \
 
 For new Programmers:
 
-Click "download as ZIP" to download the current dev environment
+Create a GitHub account
 
-Once you have the ZIP downloaded, create a github acount and download the desktop app
+Download the GitHub Desktop application
 
-Ask Stephen to set up the rest because he cannot be botherd to type the rest here
+Click to add this Git to yer Hub 
+^ Button Next to download as zip^
