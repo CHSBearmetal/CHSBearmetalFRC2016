@@ -124,8 +124,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Periodic Tasks.vi" Type="VI" URL="../Periodic Tasks.vi"/>
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
-			<Item Name="Vision Processing.vi" Type="VI" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2015/examples/FRC/roboRIO/Vision/2016 Vision Example/Vision Processing.vi"/>
-			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
 		</Item>
 		<Item Name="ActivateSole.vi" Type="VI" URL="../ActivateSole.vi"/>
 		<Item Name="OpenAnotherOne.vi" Type="VI" URL="../OpenAnotherOne.vi"/>
@@ -133,7 +131,6 @@ AddOutputFilter chunkFilter
 		<Item Name="TheTraaaaash.vi" Type="VI" URL="../TheTraaaaash.vi"/>
 		<Item Name="Untitled Library 1.lvlib" Type="Library" URL="../Untitled Library 1.lvlib"/>
 		<Item Name="Vision Example Robot Main.vi" Type="VI" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2015/examples/FRC/roboRIO/Vision/2016 Vision Example/Vision Example Robot Main.vi"/>
-		<Item Name="Vision Processing.vi" Type="VI" URL="../../../../../LabVIEW Data/Safe Code/Vision Processing.vi"/>
 		<Item Name="WhyWouldAnyOneNeedToMakeANewVIToStoreAndUseABool.vi" Type="VI" URL="../WhyWouldAnyOneNeedToMakeANewVIToStoreAndUseABool.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -610,6 +607,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Normalized Range Compare 2016.vi" Type="VI" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2015/examples/FRC/roboRIO/Vision/2016 Vision Example/Vision Support Code/Normalized Range Compare 2016.vi"/>
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2015/examples/FRC/roboRIO/Vision/2016 Vision Example/Robot Global Data.vi"/>
 			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2015/examples/FRC/roboRIO/Vision/2016 Vision Example/Vision Support Code/Sorted Particle Report 2016.vi"/>
+			<Item Name="Vision Processing.vi" Type="VI" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2015/examples/FRC/roboRIO/Vision/2016 Vision Example/Vision Processing.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Copy of Copy of FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
